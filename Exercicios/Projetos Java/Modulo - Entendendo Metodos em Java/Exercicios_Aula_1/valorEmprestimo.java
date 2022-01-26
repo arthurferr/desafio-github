@@ -1,3 +1,4 @@
+package Exercicios_Aula_1;
 import java.util.Scanner;
 
 public class valorEmprestimo {

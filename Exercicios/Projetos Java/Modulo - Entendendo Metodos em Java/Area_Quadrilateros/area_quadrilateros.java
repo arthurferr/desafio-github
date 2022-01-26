@@ -1,11 +1,6 @@
+package Area_Quadrilateros;
 public class area_quadrilateros {
-    
-    public static void main(String[] args){
-            
-        area_quadrilateros.areaQuadrilateros(5);
-        
-    }
-    
+      
     static int area;
 
     public static  void areaQuadrilateros(int lado){

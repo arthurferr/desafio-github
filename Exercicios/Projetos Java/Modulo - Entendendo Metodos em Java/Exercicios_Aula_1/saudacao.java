@@ -1,3 +1,4 @@
+package Exercicios_Aula_1;
 public class saudacao {
 
     public static void saudacao(int hora){
