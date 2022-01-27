@@ -13,7 +13,7 @@ public class Main{
         System.out.println("Informe a Hora Atual");
 
         int hora = scanner.nextInt();
-        saudacao.saudacao(hora);
+        saudacao.greetings(hora);
 
         //Nesse Exemplo tempo todos os valores dos Parâmetros do método, sendo passados através de outros métodos que, em um caso tambem requer um parâmetro. Cada método executa sua rotina e retorna valores que dão continuidade no programa.
         System.out.println("\n");
