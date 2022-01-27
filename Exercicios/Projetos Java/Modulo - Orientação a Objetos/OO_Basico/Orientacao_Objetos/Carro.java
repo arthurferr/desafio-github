@@ -1,4 +1,4 @@
-package OO_Basico;
+package OO_Basico.Orientacao_Objetos;
 
 public class Carro {
     String cor, modelo;
